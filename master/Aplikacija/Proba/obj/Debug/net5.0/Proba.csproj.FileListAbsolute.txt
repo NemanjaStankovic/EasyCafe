@@ -1,0 +1,641 @@
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\appsettings.Development.json
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\appsettings.json
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\Client\assets\vendor\bootstrap-icons\bootstrap-icons.json
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.exe
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.deps.json
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.runtimeconfig.json
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.runtimeconfig.dev.json
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\ref\Proba.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.pdb
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\Humanizer.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\EC\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\EC\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.csproj.AssemblyReference.cache
+D:\EC\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.GeneratedMSBuildEditorConfig.editorconfig
+D:\EC\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.AssemblyInfoInputs.cache
+D:\EC\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.AssemblyInfo.cs
+D:\EC\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.csproj.CoreCompileInputs.cache
+D:\EC\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cs
+D:\EC\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cache
+D:\EC\dev\Aplikacija\Proba\obj\Debug\net5.0\staticwebassets\Proba.StaticWebAssets.Manifest.cache
+D:\EC\dev\Aplikacija\Proba\obj\Debug\net5.0\staticwebassets\Proba.StaticWebAssets.xml
+D:\EC\dev\Aplikacija\Proba\obj\Debug\net5.0\scopedcss\bundle\Proba.styles.css
+D:\EC\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.RazorTargetAssemblyInfo.cache
+D:\EC\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.csproj.CopyComplete
+D:\EC\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.dll
+D:\EC\dev\Aplikacija\Proba\obj\Debug\net5.0\ref\Proba.dll
+D:\EC\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.pdb
+D:\EC\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.genruntimeconfig.cache
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\appsettings.Development.json
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\appsettings.json
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Client\assets\vendor\bootstrap-icons\bootstrap-icons.json
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.exe
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.deps.json
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.runtimeconfig.json
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.runtimeconfig.dev.json
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\ref\Proba.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.pdb
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Humanizer.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.csprojAssemblyReference.cache
+D:\Projekat SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekat SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.AssemblyInfoInputs.cache
+D:\Projekat SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.AssemblyInfo.cs
+D:\Projekat SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.csproj.CoreCompileInputs.cache
+D:\Projekat SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cs
+D:\Projekat SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cache
+D:\Projekat SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\staticwebassets\Proba.StaticWebAssets.Manifest.cache
+D:\Projekat SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\staticwebassets\Proba.StaticWebAssets.xml
+D:\Projekat SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\scopedcss\bundle\Proba.styles.css
+D:\Projekat SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.RazorTargetAssemblyInfo.cache
+D:\Projekat SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.csproj.CopyComplete
+D:\Projekat SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\ref\Proba.dll
+D:\Projekat SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.pdb
+D:\Projekat SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.genruntimeconfig.cache
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\appsettings.Development.json
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\appsettings.json
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Client\assets\vendor\bootstrap-icons\bootstrap-icons.json
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.StaticWebAssets.xml
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.exe
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.deps.json
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.runtimeconfig.json
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.runtimeconfig.dev.json
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\ref\Proba.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.pdb
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Humanizer.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.csproj.AssemblyReference.cache
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.GeneratedMSBuildEditorConfig.editorconfig
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.AssemblyInfoInputs.cache
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.AssemblyInfo.cs
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.csproj.CoreCompileInputs.cache
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cs
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cache
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\scopedcss\bundle\Proba.styles.css
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\staticwebassets\Proba.StaticWebAssets.Manifest.cache
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.RazorTargetAssemblyInfo.cache
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.csproj.CopyComplete
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\ref\Proba.dll
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.pdb
+E:\si.22.16.easycaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.genruntimeconfig.cache
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\appsettings.Development.json
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\appsettings.json
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Client\assets\vendor\bootstrap-icons\bootstrap-icons.json
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.StaticWebAssets.xml
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.exe
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.deps.json
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.runtimeconfig.json
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.runtimeconfig.dev.json
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\ref\Proba.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.pdb
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Humanizer.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\SWE\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.csproj.AssemblyReference.cache
+E:\SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.GeneratedMSBuildEditorConfig.editorconfig
+E:\SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.AssemblyInfoInputs.cache
+E:\SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.AssemblyInfo.cs
+E:\SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.csproj.CoreCompileInputs.cache
+E:\SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cs
+E:\SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cache
+E:\SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\scopedcss\bundle\Proba.styles.css
+E:\SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\staticwebassets\Proba.StaticWebAssets.Manifest.cache
+E:\SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.RazorTargetAssemblyInfo.cache
+E:\SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.csproj.CopyComplete
+E:\SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.dll
+E:\SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\ref\Proba.dll
+E:\SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.pdb
+E:\SWE\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.genruntimeconfig.cache
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\appsettings.Development.json
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\appsettings.json
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Client\assets\vendor\bootstrap-icons\bootstrap-icons.json
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.exe
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.deps.json
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.runtimeconfig.json
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.runtimeconfig.dev.json
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\ref\Proba.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.pdb
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Humanizer.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.csproj.AssemblyReference.cache
+D:\Easy Caffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.GeneratedMSBuildEditorConfig.editorconfig
+D:\Easy Caffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.AssemblyInfoInputs.cache
+D:\Easy Caffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.AssemblyInfo.cs
+D:\Easy Caffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.csproj.CoreCompileInputs.cache
+D:\Easy Caffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cs
+D:\Easy Caffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cache
+D:\Easy Caffe\dev\Aplikacija\Proba\obj\Debug\net5.0\staticwebassets\Proba.StaticWebAssets.Manifest.cache
+D:\Easy Caffe\dev\Aplikacija\Proba\obj\Debug\net5.0\staticwebassets\Proba.StaticWebAssets.xml
+D:\Easy Caffe\dev\Aplikacija\Proba\obj\Debug\net5.0\scopedcss\bundle\Proba.styles.css
+D:\Easy Caffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.RazorTargetAssemblyInfo.cache
+D:\Easy Caffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.csproj.CopyComplete
+D:\Easy Caffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\obj\Debug\net5.0\ref\Proba.dll
+D:\Easy Caffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.pdb
+D:\Easy Caffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.genruntimeconfig.cache
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\appsettings.Development.json
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\appsettings.json
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\Client\assets\vendor\bootstrap-icons\bootstrap-icons.json
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.exe
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.deps.json
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.runtimeconfig.json
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.runtimeconfig.dev.json
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\ref\Proba.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.pdb
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\Humanizer.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.csproj.AssemblyReference.cache
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.GeneratedMSBuildEditorConfig.editorconfig
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.AssemblyInfoInputs.cache
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.AssemblyInfo.cs
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.csproj.CoreCompileInputs.cache
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cs
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cache
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\obj\Debug\net5.0\staticwebassets\Proba.StaticWebAssets.Manifest.cache
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\obj\Debug\net5.0\staticwebassets\Proba.StaticWebAssets.xml
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\obj\Debug\net5.0\scopedcss\bundle\Proba.styles.css
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.RazorTargetAssemblyInfo.cache
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\obj\Debug\net5.0\ref\Proba.dll
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.pdb
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.genruntimeconfig.cache
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\appsettings.Development.json
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\appsettings.json
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\Client\assets\vendor\bootstrap-icons\bootstrap-icons.json
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.exe
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.deps.json
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.runtimeconfig.json
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.runtimeconfig.dev.json
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\ref\Proba.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.pdb
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\Humanizer.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.csproj.AssemblyReference.cache
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.GeneratedMSBuildEditorConfig.editorconfig
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.AssemblyInfoInputs.cache
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.AssemblyInfo.cs
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.csproj.CoreCompileInputs.cache
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cs
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cache
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\obj\Debug\net5.0\staticwebassets\Proba.StaticWebAssets.Manifest.cache
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\obj\Debug\net5.0\staticwebassets\Proba.StaticWebAssets.xml
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\obj\Debug\net5.0\scopedcss\bundle\Proba.styles.css
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.RazorTargetAssemblyInfo.cache
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\obj\Debug\net5.0\ref\Proba.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.pdb
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatCopy\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.genruntimeconfig.cache
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\appsettings.Development.json
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\appsettings.json
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Client\assets\vendor\bootstrap-icons\bootstrap-icons.json
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.exe
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.deps.json
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.runtimeconfig.json
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.runtimeconfig.dev.json
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\ref\Proba.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Proba.pdb
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Humanizer.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.csproj.AssemblyReference.cache
+D:\EasyCaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.GeneratedMSBuildEditorConfig.editorconfig
+D:\EasyCaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.AssemblyInfoInputs.cache
+D:\EasyCaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.AssemblyInfo.cs
+D:\EasyCaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.csproj.CoreCompileInputs.cache
+D:\EasyCaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cs
+D:\EasyCaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cache
+D:\EasyCaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\staticwebassets\Proba.StaticWebAssets.Manifest.cache
+D:\EasyCaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\staticwebassets\Proba.StaticWebAssets.xml
+D:\EasyCaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\scopedcss\bundle\Proba.styles.css
+D:\EasyCaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.RazorTargetAssemblyInfo.cache
+D:\EasyCaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.csproj.CopyComplete
+D:\EasyCaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\ref\Proba.dll
+D:\EasyCaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.pdb
+D:\EasyCaffe\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.genruntimeconfig.cache
+D:\faks\treca godina - drugi semestar\softverski in\Projekat\dev\Aplikacija\Proba\obj\Debug\net5.0\Proba.csproj.CopyComplete
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\appsettings.Development.json
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\appsettings.json
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Proba.exe
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Proba.deps.json
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Proba.runtimeconfig.json
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Proba.runtimeconfig.dev.json
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Proba.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Proba.pdb
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Humanizer.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.csproj.AssemblyReference.cache
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.GeneratedMSBuildEditorConfig.editorconfig
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.AssemblyInfoInputs.cache
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.AssemblyInfo.cs
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.csproj.CoreCompileInputs.cache
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cs
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cache
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\staticwebassets\Proba.StaticWebAssets.Manifest.cache
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\scopedcss\bundle\Proba.styles.css
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.RazorTargetAssemblyInfo.cache
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\ref\Proba.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.pdb
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.genruntimeconfig.cache
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Proba.Views.dll
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Proba.Views.pdb
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.RazorAssemblyInfo.cache
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.RazorAssemblyInfo.cs
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.TagHelpers.input.cache
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.TagHelpers.output.cache
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.RazorCoreGenerate.cache
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Razor\Views\Korisnik\Admin.cshtml.g.cs
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Razor\Views\Korisnik\Login.cshtml.g.cs
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Razor\Views\Korisnik\Logovan.cshtml.g.cs
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Razor\Views\Korisnik\Pocetna.cshtml.g.cs
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.RazorTargetAssemblyInfo.cs
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.Views.pdb
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.csproj.CopyComplete
+D:\faks\treca godina - drugi semestar\softverski in\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\refint\Proba.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\appsettings.json
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Proba.exe
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Proba.deps.json
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Proba.runtimeconfig.json
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Proba.runtimeconfig.dev.json
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Proba.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Proba.pdb
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Proba.Views.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Proba.Views.pdb
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Humanizer.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.csproj.AssemblyReference.cache
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.AssemblyInfoInputs.cache
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.AssemblyInfo.cs
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.csproj.CoreCompileInputs.cache
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.RazorAssemblyInfo.cache
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.RazorAssemblyInfo.cs
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\scopedcss\bundle\Proba.styles.css
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\staticwebassets\Proba.StaticWebAssets.Manifest.cache
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.TagHelpers.input.cache
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.TagHelpers.output.cache
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.RazorCoreGenerate.cache
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Razor\Views\Korisnik\Admin.cshtml.g.cs
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Razor\Views\Korisnik\Login.cshtml.g.cs
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Razor\Views\Korisnik\Logovan.cshtml.g.cs
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Razor\Views\Korisnik\Pocetna.cshtml.g.cs
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.RazorTargetAssemblyInfo.cache
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.RazorTargetAssemblyInfo.cs
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.Views.pdb
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.csproj.CopyComplete
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\refint\Proba.dll
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.pdb
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\Proba.genruntimeconfig.cache
+C:\Users\neman\Desktop\ProjekatFinal\master\Aplikacija\Proba\obj\Debug\net5.0\ref\Proba.dll

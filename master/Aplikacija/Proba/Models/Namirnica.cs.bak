@@ -1,0 +1,32 @@
+using System.ComponentModel.DataAnnotations;
+using System.Text.Json.Serialization;
+using System.Collections.Generic;
+
+namespace Proba.Models
+{
+    public class Namirnica
+    {
+        [Key]
+        public int ID { get; set; }
+
+        [Required]
+        [MaxLength(20)]
+        public string Naziv { get; set; }
+
+        [MaxLength(100)]
+        public string Opis { get; set; }
+
+        [Range(0,100)]
+        [RegularExpression("\\d+")]
+        public int Kolicina { get; set; }
+
+        [Range(10,3000)]
+        [RegularExpression("\\d+")]
+        public double Cena { get; set; }
+
+        [RegularExpression("\\w+")]
+        public string Tip { get; set; }
+
+        public List<SpojSadrzi> Spojevi { get; set; }
+    }
+}
