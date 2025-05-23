@@ -1,18 +1,6 @@
 # EasyCaffe  
 ## User Manual  
 
-**Version 1.0**
-
----
-
-### Revision History
-
-| Date       | Version | Description      | Authors                              |
-|------------|---------|------------------|------------------------------------|
-| 25.06.2022 | 1.0     | Final version    | Nemanja Stankovic, Vanja Stankovic, Aleksa Spiric |
-
----
-
 ## Contents
 
 1. [Introduction](#introduction)  
